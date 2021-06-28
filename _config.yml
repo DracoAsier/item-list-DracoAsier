@@ -1,12 +1,12 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "DracoAsier's Purchase List"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: My custom list of item purchases with my current set of mods
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ''
-github_username: 'sirrandoo'
+url: 'https://www.twitch.tv/DracoAsier/' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 'DracoAsier'
+github_username: 'DracoAsier'
 
 # Item list settings
 #
