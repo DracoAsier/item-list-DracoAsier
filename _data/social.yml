@@ -1,14 +1,14 @@
 # Icons on the footer
 rss: false
-email_address:
+email_address: dracoasiertwitch@gmail.com
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github:
-instagram:
+github: dracoasier
+instagram: dracoaiserkitties
 keybase:
 linkedin:
 pinterest:
@@ -18,11 +18,11 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: dracoasier
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: UCoAVqAXViI_sxDjja-_ElBg
+twitch: dracoasier
 
 # Share button options
 share:
