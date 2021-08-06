@@ -11220,6 +11220,306 @@
 		"category": "Furniture",
 		"defname": "QuadBed"
 	},
+	{
+		"abr": "amulet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAmulet"
+	},
+	{
+		"abr": "antlers",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAntlers"
+	},
+	{
+		"abr": "ark",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertArk"
+	},
+	{
+		"abr": "axehead",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAxeHead"
+	},
+	{
+		"abr": "beads",
+		"price": 116,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Beads"
+	},
+	{
+		"abr": "bishophat",
+		"price": 75,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_BishopHat"
+	},
+	{
+		"abr": "bone",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBone"
+	},
+	{
+		"abr": "book",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBook"
+	},
+	{
+		"abr": "bottle",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBottle"
+	},
+	{
+		"abr": "bowl",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBowl"
+	},
+	{
+		"abr": "box",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertBox"
+	},
+	{
+		"abr": "bracelet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBracelet"
+	},
+	{
+		"abr": "breachaxe",
+		"price": 197,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_BreachAxe"
+	},
+	{
+		"abr": "brimlesshat",
+		"price": 92,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_BrimlessHat"
+	},
+	{
+		"abr": "brokenmask",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBrokenMask"
+	},
+	{
+		"abr": "brokenspear",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBrokenSpear"
+	},
+	{
+		"abr": "brokensword",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertSword"
+	},
+	{
+		"abr": "bucket",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBucket"
+	},
+	{
+		"abr": "carnivorefinemeal",
+		"price": 33,
+		"category": "Meals",
+		"defname": "MealFine_Meat"
+	},
+	{
+		"abr": "carnivorelavishmeal",
+		"price": 67,
+		"category": "Meals",
+		"defname": "MealLavish_Meat"
+	},
+	{
+		"abr": "ceremonialmask",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertCeremonialMask"
+	},
+	{
+		"abr": "chain",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertChain"
+	},
+	{
+		"abr": "chalice",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertCup"
+	},
+	{
+		"abr": "commissarhat",
+		"price": 109,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_CommisarHat"
+	},
+	{
+		"abr": "crudebionicarm",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "QE_CrudeBionicArm"
+	},
+	{
+		"abr": "crudebionicbludgeon",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "QE_CrudeBionicArm_Bludgeon"
+	},
+	{
+		"abr": "crudebioniceye",
+		"price": 667,
+		"category": "Bionic",
+		"defname": "QE_CrudeBionicEye"
+	},
+	{
+		"abr": "crudebionicleg",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "QE_CrudeBionicLeg"
+	},
+	{
+		"abr": "crudebionicrangedweaponplatform",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "QE_CrudeBionicArm_RangedWeaponPlatform"
+	},
+	{
+		"abr": "crudebionicspike",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "QE_CrudeBionicArm_Spike"
+	},
+	{
+		"abr": "crudebionicspine",
+		"price": 667,
+		"category": "Bionic",
+		"defname": "QE_CrudeBionicSpine"
+	},
+	{
+		"abr": "cube",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertCube"
+	},
+	{
+		"abr": "darkcolumn",
+		"price": 170,
+		"category": "Misc",
+		"defname": "DarkColumnMod"
+	},
+	{
+		"abr": "deerskull",
+		"price": 145,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_DeerSkull"
+	},
+	{
+		"abr": "eggbox",
+		"price": 79,
+		"category": "Misc",
+		"defname": "EggBox"
+	},
+	{
+		"abr": "engorgedtentacularaberration",
+		"price": 917,
+		"category": "Animals",
+		"defname": "AA_EngorgedTentacularAberration"
+	},
+	{
+		"abr": "engram",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertEngram"
+	},
+	{
+		"abr": "eyeling",
+		"price": 167,
+		"category": "Animals",
+		"defname": "AA_Eyeling"
+	},
+	{
+		"abr": "fez",
+		"price": 92,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Fez"
+	},
+	{
+		"abr": "fossil",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertFossil"
+	},
+	{
+		"abr": "fragment",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertFragment"
+	},
+	{
+		"abr": "gaswalldarklight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallDarkLight"
+	},
+	{
+		"abr": "gauntlet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertGauntlet"
+	},
+	{
+		"abr": "headbag",
+		"price": 124,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Headbag"
+	},
+	{
+		"abr": "headscarf",
+		"price": 126,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Headscarf"
+	},
+	{
+		"abr": "hilt",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertSwordHandle"
+	},
+	{
+		"abr": "horn",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertHorn"
+	},
+	{
+		"abr": "horsemask",
+		"price": 145,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_HorseMask"
+	},
+	{
+		"abr": "idol",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertIdol"
+	},
+	{
+		"abr": "implant",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertImplant"
+	}
 	],
-	"total": 2003
+	"total": 2053
 }
