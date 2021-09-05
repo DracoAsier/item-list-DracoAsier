@@ -3915,7 +3915,7 @@
       "degree": 0
     },
     {
-      "description": "NAME is gives a strange impression to the opponent.\n(Ferian Race)",
+      "description": "Timmy is gives a strange impression to the opponent.\n(Ferian Race)",
       "stats": [
         "+2 social",
         "-4% mental break threshold",
@@ -5933,7 +5933,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is adorable being with smooth and charming voice. There is something mysterious about him that attracts everyone around. Even plants start to bloom around Timmy...\n(Vulpes - Adorable Foxes! (1.3))",
+      "description": "Timmy is adorable being with smooth and charming voice, as expected from gene-engineered servitor. There is something mysterious about him that attracts everyone around. Even plants start to bloom around Timmy...\n(Vulpes - Adorable Foxes! (1.3))",
       "stats": [
         "+5 social",
         "+5 animals",
@@ -6171,6 +6171,158 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1
+    },
+    {
+      "description": "Timmy is a biotic god.\n(Rim-Effect: Core)",
+      "stats": [
+        "x50 biotic energy limit",
+        "x50 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x50 biotic energy limit",
+          "x50 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticGod",
+      "name": "bioticgod",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.\n(Rim-Effect: Core)",
+      "stats": [
+        "-0.8 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-0.8 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydeaf",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.\n(Rim-Effect: Core)",
+      "stats": [
+        "-0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-0.5 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydull",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.\n(Rim-Effect: Core)",
+      "stats": [
+        "+0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.5 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallyskilled",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.\n(Rim-Effect: Core)",
+      "stats": [
+        "+2 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallytalented",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
     }
   ],
   "races": [
@@ -6194,7 +6346,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 25000
+      "price": 5000
     },
     {
       "data": {
@@ -6223,7 +6375,7 @@
       "defName": "Alien_Avali",
       "enabled": true,
       "name": "Avali",
-      "price": 25000
+      "price": 5000
     },
     {
       "data": {
@@ -6250,7 +6402,7 @@
       "defName": "Alien_BunTribe",
       "enabled": true,
       "name": "Bun",
-      "price": 25000
+      "price": 5000
     },
     {
       "data": {
@@ -6288,7 +6440,7 @@
       "defName": "Alien_Cutebold",
       "enabled": true,
       "name": "Cutebold",
-      "price": 25000
+      "price": 5000
     },
     {
       "data": {
@@ -6319,7 +6471,7 @@
       "defName": "AFerian",
       "enabled": true,
       "name": "Ferian",
-      "price": 25000
+      "price": 5000
     },
     {
       "data": {
@@ -6346,7 +6498,7 @@
       "defName": "Alien_Protogen",
       "enabled": true,
       "name": "protogen",
-      "price": 25000
+      "price": 5000
     },
     {
       "data": {
@@ -6373,7 +6525,7 @@
       "defName": "Alien_ProtogenNME",
       "enabled": true,
       "name": "protogen",
-      "price": 25000
+      "price": 5000
     },
     {
       "data": {
@@ -6399,7 +6551,7 @@
       "defName": "ReviaRaceAlien",
       "enabled": true,
       "name": "Revia",
-      "price": 25000
+      "price": 5000
     },
     {
       "data": {
@@ -6410,7 +6562,7 @@
           "+50 Carrying capacity",
           "+50% Pain shock threshold",
           "+$3000 Market value",
-          "+9.00 Move speed",
+          "+8.00 Move speed",
           "+150% Immunity gain speed",
           "+45.0F [25.0C] Minimum comfortable temperature",
           "+90.0F [50.0C] Maximum comfortable temperature",
@@ -6456,7 +6608,7 @@
       "defName": "ATK_Felinemorph",
       "enabled": true,
       "name": "felinemorph",
-      "price": 3333
+      "price": 5000
     },
     {
       "data": {
@@ -6479,7 +6631,7 @@
       "defName": "ATK_Dragomorph",
       "enabled": true,
       "name": "dragomorph",
-      "price": 3750
+      "price": 5000
     },
     {
       "data": {
@@ -6502,7 +6654,7 @@
       "defName": "ATK_Caninemorph",
       "enabled": true,
       "name": "caninemorph",
-      "price": 3333
+      "price": 5000
     },
     {
       "data": {
@@ -6525,7 +6677,7 @@
       "defName": "ATK_Lagomorph",
       "enabled": true,
       "name": "lagomorph",
-      "price": 3333
+      "price": 5000
     },
     {
       "data": {
@@ -6548,7 +6700,7 @@
       "defName": "ATK_Cervinemorph",
       "enabled": true,
       "name": "cervinemorph",
-      "price": 3333
+      "price": 5000
     },
     {
       "data": {
@@ -6571,7 +6723,7 @@
       "defName": "ATK_Avianmorph",
       "enabled": true,
       "name": "avianmorph",
-      "price": 3333
+      "price": 5000
     },
     {
       "data": {
@@ -6594,7 +6746,7 @@
       "defName": "ATK_Bovinemorph",
       "enabled": true,
       "name": "bovinemorph",
-      "price": 3333
+      "price": 5000
     },
     {
       "data": {
@@ -6617,7 +6769,7 @@
       "defName": "ATK_Gnollmorph",
       "enabled": true,
       "name": "gnollmorph",
-      "price": 3333
+      "price": 5000
     },
     {
       "data": {
@@ -6647,7 +6799,54 @@
       "defName": "ALapelli",
       "enabled": true,
       "name": "Lapelli",
-      "price": 3333
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-27.0F [-15.0C] Minimum comfortable temperature",
+          "+27.0F [15.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+110% Mining speed",
+          "+115% Research speed",
+          "+105% Immunity gain speed"
+        ],
+        "mod": "Frilleum Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Frilleum are a long lived and elegant race of dragon-like humanoids. They strongly resemble Frilleus dragons and many worship such creatures. The patron deity of the Frilleum is a space dragoness named Sigrune, a long bodied feathered and furred serpent that endlessly flies through the stars in search of the elusive truth.\n(Frilleum Race)",
+      "defName": "AFrilleum",
+      "enabled": true,
+      "name": "Frilleum",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F [0.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic fox, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Vulpinemorph",
+      "enabled": true,
+      "name": "Vulpinemorph",
+      "price": 5000
     }
   ]
 }

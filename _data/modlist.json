@@ -9,7 +9,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.2.3.0"
+    "version": "3.3.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -110,8 +110,8 @@
   {
     "author": "void",
     "name": "Character Editor",
-    "steamId": null,
-    "version": null
+    "steamId": "1874644848",
+    "version": "1.3.840.0"
   },
   {
     "author": "Hatti",
@@ -123,13 +123,13 @@
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
-    "version": "1.6.3.0"
+    "version": "1.7.2.1"
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
+    "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3074.1"
+    "version": "1.3.3102.1"
   },
   {
     "author": "avilmask",
@@ -198,12 +198,6 @@
     "version": "1.3.767"
   },
   {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully (Unofficial 1.3 Patch)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Victorique,  Aurani and  Tarojun",
     "name": "Expanded Prosthetics and Organ Engineering - Forked",
     "steamId": null,
@@ -252,12 +246,6 @@
     "version": "1.0.379.0018"
   },
   {
-    "author": "Falconne",
-    "name": "Heat Map (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
@@ -289,9 +277,9 @@
   },
   {
     "author": "CodeOptimist",
-    "name": "Jobs of Opportunity (While You're Up)",
+    "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
-    "version": "2.1.4.8512"
+    "version": "3.0.2.1779"
   },
   {
     "author": "krafs",
@@ -447,7 +435,7 @@
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
-    "version": "1.2.1126"
+    "version": "1.2.1128"
   },
   {
     "author": "Sandy",
@@ -741,7 +729,7 @@
     "author": "Oskar Potocki and  Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
-    "version": "1.0.0.0"
+    "version": "1.0.0.1"
   },
   {
     "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
@@ -759,7 +747,7 @@
     "author": "Oskar Potocki,  Taranchuk and  Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
-    "version": "1.0.0.0"
+    "version": "1.0.0.1"
   },
   {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
@@ -883,7 +871,7 @@
   },
   {
     "author": "Troopersmith1",
-    "name": "Age Matters 2.0 [1.2]",
+    "name": "Age Matters 2.0 [1.2+]",
     "steamId": "2264291966",
     "version": "1.0.0.0"
   },
@@ -909,7 +897,7 @@
     "author": "Ashilstraza",
     "name": "Cutebold Race",
     "steamId": "2147295726",
-    "version": "2.3.10"
+    "version": "2.3.12"
   },
   {
     "author": "[KOR]Bichang",
@@ -1065,13 +1053,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.3.2"
+    "version": "6.1.4.3"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.2.4"
+    "version": "1.0.2.5"
   },
   {
     "author": "SirRandoo",
@@ -1102,5 +1090,125 @@
     "name": "Vanilla Ideology Expanded - Hats and Rags",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ArmoredAmpharos",
+    "name": "Frilleum Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Room Sense",
+    "steamId": "1355637255",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist",
+    "steamId": "1365242717",
+    "version": "2.9.140"
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Xenobionic Patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Avoid Friendly Fire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2375193973",
+    "version": "1.0.1"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Go the F*** to Sleep",
+    "steamId": "2369307661",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Mining Priority",
+    "steamId": "1345928533",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "TwitchToolkit Bridge - Vanilla Events Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "List Everything 1.3",
+    "steamId": "2573784924",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sky",
+    "name": "Deep Storage Plus",
+    "steamId": "2401913079",
+    "version": "1.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Ancient Complex Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alan Dariva and  Usagirei",
+    "name": "More Planning 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChewyYui",
+    "name": "Over-Wall AC Unit from Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Heat Map",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Djgamer2k",
+    "name": "Share The Load",
+    "steamId": "2576277142",
+    "version": "1.0.0.0"
   }
 ]
