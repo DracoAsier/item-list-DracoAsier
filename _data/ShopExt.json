@@ -6371,7 +6371,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A small feathered raptor like race with four ears and a love of the musical arts.\n(Avali Race Mod (Continued))",
+      "description": "A small feathered raptor like race with four ears and a love of the musical arts.\n(Avali Race Mod (Continued))\n<i><color=#66E0E4FF>Avali Race Mod (Continued)</color></i>",
       "defName": "Alien_Avali",
       "enabled": true,
       "name": "Avali",
@@ -6398,7 +6398,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic\n(Bun Race)",
+      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic\n(Bun Race)\n<i><color=#66E0E4FF>Bun Race</color></i>",
       "defName": "Alien_BunTribe",
       "enabled": true,
       "name": "Bun",
@@ -6436,7 +6436,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A small, squat humanoid with large, droopy ears and glowing yellow eyes. They are mostly harmless and easily scared off by larger humanoids.\n(Cutebold Race)",
+      "description": "A small, squat humanoid with large, droopy ears and glowing yellow eyes. They are mostly harmless and easily scared off by larger humanoids.\n(Cutebold Race)\n<i><color=#66E0E4FF>Cutebold Race</color></i>",
       "defName": "Alien_Cutebold",
       "enabled": true,
       "name": "Cutebold",
@@ -6467,7 +6467,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.\n(Ferian Race)",
+      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.\n(Ferian Race)\n<i><color=#66E0E4FF>Ferian Race</color></i>",
       "defName": "AFerian",
       "enabled": true,
       "name": "Ferian",
@@ -6494,7 +6494,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Protogen are a race which was created in order to survive in some of the most dangerous locations in the various planets, being modified with cybernetics off the bat. Advanced algorithms and technology allows them to have slightly better accuracy with guns over most, and a greater learning rate which puts other races to shame. Surprisingly resilient to toxic environments, but they are still organic creatures in the end of the day...\n(Protogen! Marley Race Mod)",
+      "description": "Protogen are a race which was created in order to survive in some of the most dangerous locations in the various planets, being modified with cybernetics off the bat. Advanced algorithms and technology allows them to have slightly better accuracy with guns over most, and a greater learning rate which puts other races to shame. Surprisingly resilient to toxic environments, but they are still organic creatures in the end of the day...\n(Protogen! Marley Race Mod)\n<i><color=#66E0E4FF>Protogen! Marley Race Mod</color></i>",
       "defName": "Alien_Protogen",
       "enabled": true,
       "name": "protogen",
@@ -6521,7 +6521,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Protogen are a race which was created in order to survive in some of the most dangerous locations in the various planets, being modified with cybernetics off the bat. Advanced algorithms and technology allows them to have slightly better accuracy with guns over most, and a greater learning rate which puts other races to shame. Surprisingly resilient to toxic environments, but they are still organic creatures in the end of the day...\n(Protogen! Marley Race Mod)",
+      "description": "Protogen are a race which was created in order to survive in some of the most dangerous locations in the various planets, being modified with cybernetics off the bat. Advanced algorithms and technology allows them to have slightly better accuracy with guns over most, and a greater learning rate which puts other races to shame. Surprisingly resilient to toxic environments, but they are still organic creatures in the end of the day...\n(Protogen! Marley Race Mod)\n<i><color=#66E0E4FF>Protogen! Marley Race Mod</color></i>",
       "defName": "Alien_ProtogenNME",
       "enabled": true,
       "name": "protogen",
@@ -6547,7 +6547,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A bloodthirsty vulpine near-human.\n(Revia Race)",
+      "description": "A bloodthirsty vulpine near-human.\n(Revia Race)\n<i><color=#66E0E4FF>Revia Race</color></i>",
       "defName": "ReviaRaceAlien",
       "enabled": true,
       "name": "Revia",
@@ -6581,7 +6581,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body.\n(Vulpes - Adorable Foxes! (1.3))",
+      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body.\n(Vulpes - Adorable Foxes! (1.3))\n<i><color=#66E0E4FF>Vulpes - Adorable Foxes! (1.3)</color></i>",
       "defName": "Vulpes",
       "enabled": true,
       "name": "Vulpes",
@@ -6795,7 +6795,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Lapelli is Developed by advanced genetic engineering. They are strong, strong in strength and stamina, suitable for simple labor, and prefer close combat. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.\n(Lapelli Race)",
+      "description": "Lapelli is Developed by advanced genetic engineering. They are strong, strong in strength and stamina, suitable for simple labor, and prefer close combat. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.\n(Lapelli Race)\n<i><color=#66E0E4FF>Lapelli Race</color></i>",
       "defName": "ALapelli",
       "enabled": true,
       "name": "Lapelli",
@@ -6819,7 +6819,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Frilleum are a long lived and elegant race of dragon-like humanoids. They strongly resemble Frilleus dragons and many worship such creatures. The patron deity of the Frilleum is a space dragoness named Sigrune, a long bodied feathered and furred serpent that endlessly flies through the stars in search of the elusive truth.\n(Frilleum Race)",
+      "description": "Frilleum are a long lived and elegant race of dragon-like humanoids. They strongly resemble Frilleus dragons and many worship such creatures. The patron deity of the Frilleum is a space dragoness named Sigrune, a long bodied feathered and furred serpent that endlessly flies through the stars in search of the elusive truth.\n(Frilleum Race)\n<i><color=#66E0E4FF>Frilleum Race</color></i>",
       "defName": "AFrilleum",
       "enabled": true,
       "name": "Frilleum",
