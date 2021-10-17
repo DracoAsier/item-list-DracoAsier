@@ -6373,7 +6373,7 @@
       },
       "description": "A small feathered raptor like race with four ears and a love of the musical arts.\n(Avali Race Mod (Continued))\n<i><color=#66E0E4FF>Avali Race Mod (Continued)</color></i>",
       "defName": "Alien_Avali",
-      "enabled": true,
+      "enabled": false,
       "name": "Avali",
       "price": 5000
     },
@@ -6400,7 +6400,7 @@
       },
       "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic\n(Bun Race)\n<i><color=#66E0E4FF>Bun Race</color></i>",
       "defName": "Alien_BunTribe",
-      "enabled": true,
+      "enabled": false,
       "name": "Bun",
       "price": 5000
     },
@@ -6438,7 +6438,7 @@
       },
       "description": "A small, squat humanoid with large, droopy ears and glowing yellow eyes. They are mostly harmless and easily scared off by larger humanoids.\n(Cutebold Race)\n<i><color=#66E0E4FF>Cutebold Race</color></i>",
       "defName": "Alien_Cutebold",
-      "enabled": true,
+      "enabled": false,
       "name": "Cutebold",
       "price": 5000
     },
@@ -6469,7 +6469,7 @@
       },
       "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.\n(Ferian Race)\n<i><color=#66E0E4FF>Ferian Race</color></i>",
       "defName": "AFerian",
-      "enabled": true,
+      "enabled": false,
       "name": "Ferian",
       "price": 5000
     },
@@ -6496,7 +6496,7 @@
       },
       "description": "Protogen are a race which was created in order to survive in some of the most dangerous locations in the various planets, being modified with cybernetics off the bat. Advanced algorithms and technology allows them to have slightly better accuracy with guns over most, and a greater learning rate which puts other races to shame. Surprisingly resilient to toxic environments, but they are still organic creatures in the end of the day...\n(Protogen! Marley Race Mod)\n<i><color=#66E0E4FF>Protogen! Marley Race Mod</color></i>",
       "defName": "Alien_Protogen",
-      "enabled": true,
+      "enabled": false,
       "name": "protogen",
       "price": 5000
     },
@@ -6523,7 +6523,7 @@
       },
       "description": "Protogen are a race which was created in order to survive in some of the most dangerous locations in the various planets, being modified with cybernetics off the bat. Advanced algorithms and technology allows them to have slightly better accuracy with guns over most, and a greater learning rate which puts other races to shame. Surprisingly resilient to toxic environments, but they are still organic creatures in the end of the day...\n(Protogen! Marley Race Mod)\n<i><color=#66E0E4FF>Protogen! Marley Race Mod</color></i>",
       "defName": "Alien_ProtogenNME",
-      "enabled": true,
+      "enabled": false,
       "name": "protogen",
       "price": 5000
     },
@@ -6549,7 +6549,7 @@
       },
       "description": "A bloodthirsty vulpine near-human.\n(Revia Race)\n<i><color=#66E0E4FF>Revia Race</color></i>",
       "defName": "ReviaRaceAlien",
-      "enabled": true,
+      "enabled": false,
       "name": "Revia",
       "price": 5000
     },
@@ -6583,7 +6583,7 @@
       },
       "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body.\n(Vulpes - Adorable Foxes! (1.3))\n<i><color=#66E0E4FF>Vulpes - Adorable Foxes! (1.3)</color></i>",
       "defName": "Vulpes",
-      "enabled": true,
+      "enabled": false,
       "name": "Vulpes",
       "price": 5000
     },
@@ -6606,7 +6606,7 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic feline, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Felinemorph",
-      "enabled": true,
+      "enabled": false,
       "name": "felinemorph",
       "price": 5000
     },
@@ -6629,7 +6629,7 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic dragon, but is otherwise identical to the average human. They are exceedingly rare due to the extensive and expensive modifications made to their physiology.",
       "defName": "ATK_Dragomorph",
-      "enabled": true,
+      "enabled": false,
       "name": "dragomorph",
       "price": 5000
     },
@@ -6652,7 +6652,7 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic canine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Caninemorph",
-      "enabled": true,
+      "enabled": false,
       "name": "caninemorph",
       "price": 5000
     },
@@ -6675,7 +6675,7 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic lapine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Lagomorph",
-      "enabled": true,
+      "enabled": false,
       "name": "lagomorph",
       "price": 5000
     },
@@ -6698,7 +6698,7 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic cervine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Cervinemorph",
-      "enabled": true,
+      "enabled": false,
       "name": "cervinemorph",
       "price": 5000
     },
@@ -6721,7 +6721,7 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic avian, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Avianmorph",
-      "enabled": true,
+      "enabled": false,
       "name": "avianmorph",
       "price": 5000
     },
@@ -6744,7 +6744,7 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic bovine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Bovinemorph",
-      "enabled": true,
+      "enabled": false,
       "name": "bovinemorph",
       "price": 5000
     },
@@ -6767,7 +6767,7 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic hyena, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Gnollmorph",
-      "enabled": true,
+      "enabled": false,
       "name": "gnollmorph",
       "price": 5000
     },
@@ -6797,7 +6797,7 @@
       },
       "description": "Lapelli is Developed by advanced genetic engineering. They are strong, strong in strength and stamina, suitable for simple labor, and prefer close combat. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.\n(Lapelli Race)\n<i><color=#66E0E4FF>Lapelli Race</color></i>",
       "defName": "ALapelli",
-      "enabled": true,
+      "enabled": false,
       "name": "Lapelli",
       "price": 5000
     },
@@ -6821,7 +6821,7 @@
       },
       "description": "Frilleum are a long lived and elegant race of dragon-like humanoids. They strongly resemble Frilleus dragons and many worship such creatures. The patron deity of the Frilleum is a space dragoness named Sigrune, a long bodied feathered and furred serpent that endlessly flies through the stars in search of the elusive truth.\n(Frilleum Race)\n<i><color=#66E0E4FF>Frilleum Race</color></i>",
       "defName": "AFrilleum",
-      "enabled": true,
+      "enabled": false,
       "name": "Frilleum",
       "price": 5000
     },
@@ -6844,8 +6844,93 @@
       },
       "description": "A xenohuman that is biosculpted to resemble an anthropomorphic fox, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
       "defName": "ATK_Vulpinemorph",
-      "enabled": true,
+      "enabled": false,
       "name": "Vulpinemorph",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+21.6F [12.0C] Minimum comfortable temperature",
+          "+90.0F [50.0C] Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Lord of the Rims - Dwarves",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives for 250 years. Loves to mine, craft, and make friends.\n(Lord of the Rims - Dwarves)\n<i><color=#66E0E4FF>Lord of the Rims - Dwarves</color></i>",
+      "defName": "LotRD_DwarfStandardRace",
+      "enabled": true,
+      "name": "dwarf",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+21.6F [12.0C] Minimum comfortable temperature",
+          "+57.6F [32.0C] Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Lord of the Rims - Elves",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Wise and immortal.\n(Lord of the Rims - Elves)\n<i><color=#66E0E4FF>Lord of the Rims - Elves</color></i>",
+      "defName": "LotRE_ElfStandardRace",
+      "enabled": true,
+      "name": "elf",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1250 Market value",
+          "+4.61 Move speed",
+          "+21.6F [12.0C] Minimum comfortable temperature",
+          "+57.6F [32.0C] Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Lord of the Rims - Elves",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Those born between the world of immortality and mortality.\n(Lord of the Rims - Elves)\n<i><color=#66E0E4FF>Lord of the Rims - Elves</color></i>",
+      "defName": "LotRE_ElfStandardRaceHalf",
+      "enabled": true,
+      "name": "half-elf",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+42.00 Mass",
+          "+100% Flammability",
+          "+45 Carrying capacity",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+21.6F [12.0C] Minimum comfortable temperature",
+          "+57.6F [32.0C] Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Lord of the Rims - Hobbits",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives to be 100 years old. Loves to eat, drink, be merry, and sometimes, just sometimes, go on adventures.\n(Lord of the Rims - Hobbits)\n<i><color=#66E0E4FF>Lord of the Rims - Hobbits</color></i>",
+      "defName": "LotRH_HobbitStandardRace",
+      "enabled": true,
+      "name": "hobbit",
       "price": 5000
     }
   ]
