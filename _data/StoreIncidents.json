@@ -246,11 +246,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "infestation",
-		"price": 15000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -283,7 +278,7 @@
 	{
 		"abr": "levelskill",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "trait",
@@ -616,5 +611,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 123
+	"total": 122
 }
