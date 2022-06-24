@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 5000,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
@@ -228,7 +228,7 @@
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
@@ -242,6 +242,11 @@
 	},
 	{
 		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -278,7 +283,7 @@
 	{
 		"abr": "levelskill",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
@@ -362,7 +367,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -429,31 +434,6 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "hailstorm",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "earthquake",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cropsprout",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "drought",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "huntingparty",
-		"price": 500,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "alphaasteroid",
@@ -557,7 +537,7 @@
 	},
 	{
 		"abr": "veemeteoriteshower",
-		"price": 10000,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -611,5 +591,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 122
+	"total": 118
 }
